@@ -1,4 +1,4 @@
-# Evaluating a Use of a Transformer Machine Learning Models for Predicting Resting Heart using timeseries dataset.
+# Evaluating a Use of a Transformer (Encoder) Machine Learning Models for Predicting Resting Heart using timeseries dataset.
 
 The code in this notebook reads in historical data on resting heart rate, cleans it, pre-processes it, and trains a neural network model to predict future resting heart rates.
 
