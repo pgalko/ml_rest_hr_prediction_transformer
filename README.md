@@ -10,7 +10,7 @@ The to_sequences function then takes in the preprocessed data and splits the dat
 
 The build_model function creates a neural network model with a transformer encoder, a global average pooling layer, and an MLP head with one output unit. The model is compiled with mean squared error loss and Adam optimizer.
 
-The model is trained with the fit function, which returns predictions for the test set. The performance of the model is then evaluated using several metrics including root mean squared error (RMSE), mean absolute percentage error (MAPE), and correlation coefficient.
+The model is trained with the fit function, which returns predictions for the test set. The performance of the model is then evaluated using several metrics including root mean squared error (RMSE) and correlation coefficient.
 
 Finally, the predicted and actual values of the test set are plotted as a scatter plot and line plot.
 
