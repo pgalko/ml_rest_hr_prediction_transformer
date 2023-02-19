@@ -21,5 +21,5 @@ Finally, the predicted and actual values of the test set are plotted as a scatte
 ![](Rest_HR_Vis_Line.png)
 
 Resources:
-* https://keras.io/examples/structured_data/tabtransformer/
-* https://github.com/keras-team/keras-io/blob/master/examples/structured_data/tabtransformer.py
+* https://keras.io/examples/timeseries/timeseries_transformer_classification/
+* https://github.com/keras-team/keras-io/blob/master/examples/timeseries/timeseries_classification_transformer.py
